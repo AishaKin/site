@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2022-10-24
+date: 2023-03-18
 type: landing
 
 sections:
@@ -46,16 +46,16 @@ sections:
     content:
       title: Skills
       items:
-        - name: R
-          description: 90%
-          icon: r-project
-          icon_pack: fab
-        - name: Statistics
-          description: 100%
+        - name: Программирование
+          description: 30%
+          icon: keyboard
+          icon_pack: fas
+        - name: Математика
+          description: 60%
           icon: chart-line
           icon_pack: fas
-        - name: Photography
-          description: 10%
+        - name: Творчетсво
+          description: 40%
           icon: camera-retro
           icon_pack: fas
   - block: experience
@@ -70,27 +70,28 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Программист
+          company: SСHOOL21
           company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
+          company_logo: org-21
+          location: Moscow
+          date_start: '2023-02-27'
+          date_end: '2023-03-25'
           description: |2-
-              Responsibilities include:
+              Основные обязанности:
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+              -Выполнение проектов
+              -Сдача экзаменов
+              -Проверка чужих проектов
+
+        - title: Староста
+          company: University RUDN
           company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          company_logo: org-st
+          location: Moscow
+          date_start: '2022-09-01'
+          date_end: ''
+          description: Заполнение журналов, организация учебы и работы, посещаемость мероприятий
     design:
       columns: '2'
   - block: accomplishments
@@ -106,29 +107,13 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
+        - certificate_url: https://www.stepik.org
           date_end: ''
           date_start: '2021-01-25'
           description: ''
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
-          url: ''
-        - certificate_url: https://www.edx.org
-          date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
-          description: ''
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
+          organization: Stepik
+          organization_url: https://www.stepik.org
+          title: Math and programming courses
           url: ''
     design:
       columns: '2'
