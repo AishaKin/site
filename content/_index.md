@@ -87,7 +87,7 @@ sections:
         - title: Староста
           company: University RUDN
           company_url: ''
-          company_logo: org-st
+          company_logo: org-x
           location: Moscow
           date_start: '2022-09-01'
           date_end: ''
