@@ -73,7 +73,7 @@ sections:
         - title: Программист
           company: SСHOOL21
           company_url: ''
-          company_logo: org-it
+          company_logo: org-gc
           location: Moscow
           date_start: '2023-02-27'
           date_end: '2023-03-25'
